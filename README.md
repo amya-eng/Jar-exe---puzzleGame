@@ -20,4 +20,4 @@
 
 图片path我用的是getClass().getResource()方法，因此在exe4j和Inno Setup中不需要额外加上/image资源。所需资源在IJ打jar包时候就已经包括了。
 
-注意：给出的代码中没有最终的setup.exe文件，是因为git push超出100M限制无法上传。
+注意：给出的代码中没有最终的setup.exe文件，是因为git push超出100M限制无法上传，在右侧release给出。
